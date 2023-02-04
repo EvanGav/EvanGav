@@ -53,6 +53,8 @@ French CS student who likes to learn new things. I sometimes upload what I've do
 <summary style="font-size:60px"> OS </summary>
 <br>
 <img align="left" alt="Windows" width="50px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> <img align="left" alt="Linux" width="50px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br>
+  
 </details>
 <br>
 
