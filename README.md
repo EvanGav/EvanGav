@@ -54,5 +54,9 @@ French CS student who likes to learn new things. I sometimes upload what I've do
 <br>
 <img align="left" alt="Windows" width="50px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> <img align="left" alt="Linux" width="50px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </details>
+<br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanGav&theme=react&hide_border=true&layout=compact" alt="Evan's top languages" />
+</a>
 
