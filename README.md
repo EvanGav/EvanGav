@@ -1,6 +1,6 @@
 # EvanGav <img src="https://cdn.discordapp.com/emojis/816774859378917406.gif?size=96&quality=lossless" width=50>
 
-French CS student who likes to learn new things. I sometimes upload what I've done here but forget most of the time. I would rather just do backend but frontend doesn't bother me that much. I don't have plenty of time to code my own personnal projects due to studies but as time flows, I may have opporunities and would be glad to upload some here.
+French CS student who likes to learn new things. I sometimes upload what I've done here but forget most of the time. I would rather just do backend but frontend doesn't bother me that much. I don't have plenty of time to code my own personal projects due to studies but as time flows, I may have opportunities and would be glad to upload some here.
 
 ---
 ## What do I use ?
