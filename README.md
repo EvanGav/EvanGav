@@ -48,6 +48,8 @@ French CS student who likes to learn new things. I sometimes upload what I've do
 <br>
   
 <br>
+<br>
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanGav&theme=react&hide_border=true&layout=compact" alt="Evan's top languages" />
