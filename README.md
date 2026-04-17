@@ -1,7 +1,9 @@
 # EvanGav <img src="https://cdn.discordapp.com/emojis/816774859378917406.gif?size=96&quality=lossless" width=50>
 
 French CS graduate (bachelor's degreee) who likes to learn new things. I sometimes upload what I've done here but forget most of the time. I would rather just do backend but frontend doesn't bother me that much. 
-I'm currently in a break from compurter science studies but plan to go back to this domain, I keep practicing and learning new techs
+I'm currently in a break from compurter science studies but plan to go back to this field, I keep practicing and learning new techs : currently allocating most of my time to learning AI
+
+Also did a psychology year to take a break from cs while also learning useful things about human behavior which could be used to deal with clients or respond to different ethics problems (regarding AI for example)
 ---
 ## What do I use ?
 <br>
